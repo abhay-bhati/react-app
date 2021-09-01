@@ -1,0 +1,36 @@
+.container{
+    display:flex;
+    width:80%;
+    background-color:orange;
+    padding:30px;
+    align-items: center;
+    margin:40px auto;
+    border-radius: 15px;
+    font-weight: 600;
+}
+.info > div{
+    margin:30px;
+}
+.fields {
+    margin-right:20px;
+}
+
+.btn{
+    margin-left:auto;
+    margin-right:30px;
+}
+.btn button{
+    text-decoration: none;
+    background-color: rgb(80, 161, 161);
+    padding:10px;
+    border-radius: 10px;
+}
+.active{
+    background-color:rgb(100, 209, 100);
+    border:3px solid rgb(42, 212, 42);
+}
+.complete{
+    background-color:rgb(228, 146, 99);
+    border:3px solid rgb(218, 98, 28);
+}
+

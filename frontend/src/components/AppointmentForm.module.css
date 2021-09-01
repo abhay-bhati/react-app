@@ -1,0 +1,34 @@
+.formcontainer {
+    background-color: #ddd;
+    width:30%;
+    padding:40px 60px;
+    margin:40px auto;
+    margin-bottom:15px;
+    min-width: 400px;
+    border-radius: 15px;
+}
+
+.formcontainer > div{
+    display:flex;
+    justify-content: space-between;
+    margin:20px 0px;
+}
+
+.formcontainer > div > input{
+    width:49%;
+    padding:5px;
+}
+.formcontainer div select{
+    padding:7px;
+}
+
+.btn {
+    justify-content: center;
+    margin:0px auto;
+}
+.btn button{
+    padding:10px 13px;
+    border-radius: 8px;
+    background-color: white;
+
+}

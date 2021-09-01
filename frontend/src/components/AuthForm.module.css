@@ -1,0 +1,14 @@
+.container{
+    width:60%;
+    background-color: #ddd;
+    padding:50px 30px;
+    padding-top:60px;
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    margin:30px auto;
+    
+}
+.container label{
+    margin-right:30px;
+}

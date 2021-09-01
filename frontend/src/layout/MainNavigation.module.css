@@ -1,0 +1,35 @@
+.navbar{
+    background-color:rgb(182, 62, 62);
+    padding:25px;
+    display:flex;
+    text-align: center;
+    margin-bottom:40px;
+}
+
+.logo{
+    margin-right:auto;
+}
+.logo h2{
+    margin:0px;
+    margin-left:40px;
+    color:rgb(230, 227, 227);
+
+}
+.navlinks{
+    display:flex;
+    margin-right:50px;
+    margin-top:5px;
+
+}
+.navlinks > div {
+    margin-left:80px;
+    color:rgb(230, 227, 227);
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+a > div{
+    margin:0px 20px;
+}
