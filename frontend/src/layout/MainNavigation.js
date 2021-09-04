@@ -20,7 +20,7 @@ function MainNavigation() {
         <nav className={styles.navbar}>
             <div className={styles.logo}>
                 <Link to='/'>
-                <h2>UVI Health</h2>
+                <h2>React Health</h2>
                 </Link>
             </div>
             {AuthCtx.login && (<div className={styles.navlinks}>
